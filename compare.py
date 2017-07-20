@@ -1,3 +1,11 @@
+'''
+*** This script is reading data from two different sheets under same workbook.
+ 	This code is comparing data of provided column value from two different sheets.
+ 	The goal of this script was to prove the Y column is subset of X. ***
+
+
+'''
+
 
 import xlrd
 import re
